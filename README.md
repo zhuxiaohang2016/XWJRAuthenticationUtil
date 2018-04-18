@@ -1,5 +1,6 @@
 # XWJRAuthenticationUtil
 此库集成了Faceid的活体检测, 身份证和银行卡扫描库
+
 [faceId 相关文档](https://faceid.com/pages/documents)
 > 在需要引用以下库的gradle中导入以下代码
 ```
