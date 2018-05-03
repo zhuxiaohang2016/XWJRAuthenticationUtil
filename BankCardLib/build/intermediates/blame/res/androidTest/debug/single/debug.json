@@ -1,27 +1,11 @@
 [
     {
-        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
-        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/layout_bankcardscan_layout.xml.flat",
-        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/layout/bankcardscan_layout.xml"
-    },
-    {
         "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_n.xml.flat",
         "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/btn_n.xml"
     },
     {
-        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_bg_return_p.xml.flat",
-        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/bg_return_p.xml"
-    },
-    {
-        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_bg_return_select.xml.flat",
-        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/bg_return_select.xml"
-    },
-    {
-        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/raw_bankcardmodel.flat",
-        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/raw/bankcardmodel"
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_direction_left.png.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/direction_left.png"
     },
     {
         "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
@@ -36,44 +20,28 @@
         "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/direction_left.png"
     },
     {
-        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_n.xml.flat",
-        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/btn_n.xml"
-    },
-    {
         "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_launcher.png.flat",
         "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_bg_return_p.xml.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/bg_return_p.xml"
     },
     {
         "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_retunimage.png.flat",
         "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/retunimage.png"
     },
     {
-        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_direction_left.png.flat",
-        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/direction_left.png"
-    },
-    {
-        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_backselect.xml.flat",
-        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/btn_backselect.xml"
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/layout_activity_resutl.xml.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/layout/activity_resutl.xml"
     },
     {
         "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_edit_back.xml.flat",
         "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/edit_back.xml"
     },
     {
-        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/layout_title_layout.xml.flat",
-        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/layout/title_layout.xml"
-    },
-    {
-        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_backselect.xml.flat",
-        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/btn_backselect.xml"
-    },
-    {
         "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat",
         "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat",
-        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
     },
     {
         "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_retunimage.png.flat",
@@ -88,32 +56,28 @@
         "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/loading_background.jpg"
     },
     {
-        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat",
-        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
-    },
-    {
         "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/layout_activity_resutl.xml.flat",
         "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/layout/activity_resutl.xml"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_loading_background.jpg.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/loading_background.jpg"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_retunimage.png.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/retunimage.png"
     },
     {
         "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_bg_return_select.xml.flat",
         "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/bg_return_select.xml"
     },
     {
-        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_bg_nothing.png.flat",
-        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/bg_nothing.png"
-    },
-    {
-        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_bg_return_p.xml.flat",
-        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/bg_return_p.xml"
-    },
-    {
         "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_launcher.png.flat",
         "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
     },
     {
-        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_p.xml.flat",
-        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/btn_p.xml"
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_launcher.png"
     },
     {
         "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/layout_bankcardscan_layout.xml.flat",
@@ -132,6 +96,10 @@
         "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/loading_background.jpg"
     },
     {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_n.xml.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/btn_n.xml"
+    },
+    {
         "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/raw_bankcardmodel.flat",
         "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/raw/bankcardmodel"
     },
@@ -142,5 +110,109 @@
     {
         "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat",
         "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_bg_nothing.png.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/bg_nothing.png"
+    },
+    {
+        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/layout_bankcardscan_layout.xml.flat",
+        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/layout/bankcardscan_layout.xml"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_edit_back.xml.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/edit_back.xml"
+    },
+    {
+        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_bg_return_p.xml.flat",
+        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/bg_return_p.xml"
+    },
+    {
+        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/raw_bankcardmodel.flat",
+        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/raw/bankcardmodel"
+    },
+    {
+        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_bg_return_select.xml.flat",
+        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/bg_return_select.xml"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_backselect.xml.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/btn_backselect.xml"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_n.xml.flat",
+        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/btn_n.xml"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_direction_left.png.flat",
+        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/direction_left.png"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_bg_return_select.xml.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/bg_return_select.xml"
+    },
+    {
+        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_backselect.xml.flat",
+        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/btn_backselect.xml"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/raw_bankcardmodel.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/raw/bankcardmodel"
+    },
+    {
+        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/layout_title_layout.xml.flat",
+        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/layout/title_layout.xml"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/layout_bankcardscan_layout.xml.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/layout/bankcardscan_layout.xml"
+    },
+    {
+        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_backselect.xml.flat",
+        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/btn_backselect.xml"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/layout_title_layout.xml.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/layout/title_layout.xml"
+    },
+    {
+        "merged": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/zhaoshuai/Desktop/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_bg_nothing.png.flat",
+        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/bg_nothing.png"
+    },
+    {
+        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_bg_return_p.xml.flat",
+        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/bg_return_p.xml"
+    },
+    {
+        "merged": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_p.xml.flat",
+        "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/btn_p.xml"
+    },
+    {
+        "merged": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/res/merged/androidTest/debug/drawable_btn_p.xml.flat",
+        "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/drawable/btn_p.xml"
     }
 ]
