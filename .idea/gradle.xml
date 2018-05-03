@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/BankCardLib" />
             <option value="$PROJECT_DIR$/IDCardLib" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/jsbridge" />
             <option value="$PROJECT_DIR$/livenesslib" />
           </set>
         </option>
