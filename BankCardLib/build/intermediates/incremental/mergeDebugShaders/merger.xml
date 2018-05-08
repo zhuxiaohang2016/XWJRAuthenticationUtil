@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/src/debug/shaders"/></dataSet></merger>

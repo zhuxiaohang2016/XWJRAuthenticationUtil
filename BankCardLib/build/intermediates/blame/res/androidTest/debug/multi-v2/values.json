@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/personal/work/2018-company/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "source": "/Users/zxh/AndroidCode/XWJRAuthenticationUtil/BankCardLib/build/intermediates/bundles/debug/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,10",
                         "startColumns": "4,4,4",
