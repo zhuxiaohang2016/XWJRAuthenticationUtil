@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/fileprovider24" />
             <option value="$PROJECT_DIR$/jsbridge" />
             <option value="$PROJECT_DIR$/livenesslib" />
+            <option value="$PROJECT_DIR$/track" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
