@@ -1,1 +1,1 @@
-include ':app', ':IDCardLib', ':livenesslib', ':BankCardLib', ':jsbridge', ':fileprovider24', 'jsbridge'
+include ':app', ':IDCardLib', ':livenesslib', ':BankCardLib', ':jsbridge', ':fileprovider24', ':track'

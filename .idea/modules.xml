@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/fileprovider24/fileprovider24.iml" filepath="$PROJECT_DIR$/fileprovider24/fileprovider24.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsbridge/jsbridge.iml" filepath="$PROJECT_DIR$/jsbridge/jsbridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/livenesslib/livenesslib.iml" filepath="$PROJECT_DIR$/livenesslib/livenesslib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/track/track.iml" filepath="$PROJECT_DIR$/track/track.iml" />
     </modules>
   </component>
 </project>
