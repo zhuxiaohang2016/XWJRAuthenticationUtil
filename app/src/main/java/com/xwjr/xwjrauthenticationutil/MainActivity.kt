@@ -2,10 +2,10 @@ package com.xwjr.xwjrauthenticationutil
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import com.xwjr.track.TrackConfig
-import com.xwjr.track.TrackData
-import com.xwjr.track.TrackOperate
-import java.lang.Thread.sleep
+//import com.xwjr.track.TrackConfig
+//import com.xwjr.track.TrackData
+//import com.xwjr.track.TrackOperate
+//import java.lang.Thread.sleep
 
 class MainActivity : AppCompatActivity() {
 
