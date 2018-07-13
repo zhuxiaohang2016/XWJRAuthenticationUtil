@@ -14,10 +14,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        TrackConfig.init(this,"http://p2psp.kfxfd.cn:9080/apphub/tracking/","49dd08f0-24e6-11e7-b026-6b0b8b32be51")
-
-        sleep(3000)
-
-        TrackOperate.upload(TrackData.getCommonMap().toString())
+//        TrackConfig.init(this,"http://p2psp.kfxfd.cn:9080/apphub/tracking/","49dd08f0-24e6-11e7-b026-6b0b8b32be51")
+//
+//        sleep(3000)
+//
+//        TrackOperate.upload(TrackData.getCommonMap().toString())
     }
 }
